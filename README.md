@@ -3,7 +3,7 @@
 Responsive Makeup Product Website – Frontend Battle 2025 Submission
 
 ## 🔗 Live Link
-👉 [Live Demo](https://your-live-site.netlify.app) 
+👉 [Live Demo](https://github.com/pragyaaa305/fronthandbattle_rep) 
 ## 📁 Source Code Repository
 👉 [GitHub Repo] ( https://github.com/pragyaaa305/fronthandbattle_rep.git )
 
