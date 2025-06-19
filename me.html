@@ -8,6 +8,16 @@
   <link rel="stylesheet" href="file.css">
 </head>
 <body>
+<!-- Loader Section -->
+<div id="loader">
+  <video id="loader-video" autoplay muted playsinline>
+    <source src="images/loader.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+
+
 
   <!-- Navbar -->
 <nav>
@@ -170,6 +180,20 @@
       close.style.display = "none";
     }
   }
+  window.addEventListener("load", () => {
+    const loader = document.getElementById("loader");
+    const video = document.getElementById("loader-video");
+
+    // Remove loader after video ends
+    video.onended = () => {
+      loader.remove(); // Completely remove loader from DOM
+    };
+
+    // Fallback in case video fails to trigger 'ended'
+    setTimeout(() => {
+      if (loader) loader.remove();
+    }, 5000); // Max 5 seconds
+  });
   </script>
 
 

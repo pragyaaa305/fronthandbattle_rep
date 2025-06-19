@@ -9,6 +9,29 @@
       background: #1a1a1a;
       color: #f9f9f9;
     }
+    /* 🎬 Video Loader */
+/* Loader Fullscreen Container */
+/* Loader Styling */
+#loader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #fff0f6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 99999;
+}
+
+/* Optional: style video */
+#loader video {
+  width: 200px;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
 
     nav {
       display: flex;
