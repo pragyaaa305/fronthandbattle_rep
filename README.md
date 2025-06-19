@@ -1,31 +1,50 @@
-# fronthandbattle_rep
-# Glow & Glam 💄✨  
-Responsive Makeup Product Website – Frontend Battle 2025 Submission
+#FRONTHANDBATTLE_REP
+# 💄 Glow & Glam – Frontend Battle 2025 Submission
+Welcome to **Glow & Glam**, a responsive and elegant makeup-themed product website created as part of the **Frontend Battle 2025** challenge.
 
-## 🔗 Live Link
-👉 [Live Demo](https://github.com/pragyaaa305/fronthandbattle_rep) 
-## 📁 Source Code Repository
-👉 [GitHub Repo] ( https://github.com/pragyaaa305/fronthandbattle_rep.git )
+This project blends pixel-perfect design with delightful user experiences using HTML, CSS, and JavaScript – topped off with glam transitions, dark/light mode, and video integration.
 
-## 🧩 Features Implemented
-- Responsive layout across all devices 📱💻
-- Light & Dark mode toggle 🌗
-- Video-enhanced testimonials 🎥
-- Product card section with “Add to Cart” logic 🛍️
-- Gallery image section 🖼️
-- Stylish hamburger menu for mobile 🍔
-- Loader animation (from provided assets) ⏳
-- Smooth transitions and modern UI/UX touches ✨
+---
 
-## 🚀 Technologies Used
+## 🔗 Live Website  
+✨ [Click here to view the live site](https://pragyaaa305.github.io/fronthandbattle_rep/)
+
+## 📁 GitHub Repository  
+💻 [View the full source code](https://github.com/pragyaaa305/fronthandbattle_rep)
+
+---
+
+## ✅ Features Implemented
+
+- 💡 **Responsive Design** (Mobile-first layout with hamburger menu)
+- 🌓 **Light/Dark Mode Toggle**
+- 🎬 **Custom Video Loader** (from provided assets)
+- 🧴 **Product Showcase** section
+- 📝 **Testimonials** section (with embedded video)
+- 🖼️ **Image Gallery**
+- 📩 **Contact & Newsletter** section
+- 🧭 **Sticky Navbar with Anchor Links**
+- 🎨 **Subtle Hover Effects & Theming**
+- 🌐 **Deployed with GitHub Pages**
+
+---
+
+## 🧠 Tech Stack
+
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- Vanilla JavaScript
+
+---
 
 ## 🤖 AI Tools Used
-- ChatGPT (for code structure, responsiveness, feature integration help)
 
-## 📦 How to Run Locally
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/pragyaaa305/fronthandbattle_rep
+- **ChatGPT**: For structure, layout ideas, responsiveness handling, video loader logic, and accessibility
+
+---
+
+## 🛠 How to Run Locally
+
+1. Clone this repository:
+```bash
+git clone https://github.com/pragyaaa305/fronthandbattle_rep.git
