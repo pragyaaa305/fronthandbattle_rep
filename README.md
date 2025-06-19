@@ -1,4 +1,4 @@
-#FRONTHANDBATTLE_REP
+# FRONTHANDBATTLE_REP
 # 💄 Glow & Glam – Frontend Battle 2025 Submission
 Welcome to **Glow & Glam**, a responsive and elegant makeup-themed product website created as part of the **Frontend Battle 2025** challenge.
 
